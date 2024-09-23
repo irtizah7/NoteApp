@@ -1,0 +1,32 @@
+.noteCSS {
+    width: 20rem;
+    margin-top: 1rem;
+    background-color: rgb(250, 250, 250);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btnCSS {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 5px;
+}
+
+.editbtn {
+    background-color: rgb(128, 128, 128);
+    border: 2px solid grey;;
+    border-radius: 20px;
+}
+.editbtn:hover {
+    background-color: rgb(138, 138, 138);
+    border: 2px solid rgb(138, 138, 138);
+}
+.deletebtn {
+    background-color: rgb(238, 17, 17);
+    border: 2px solid rgb(238, 17, 17);
+    border-radius: 20px;
+}
+.deletebtn:hover {
+    background-color: rgb(255, 19, 19);
+    border: 2px solid rgb(255, 19, 19);
+}
