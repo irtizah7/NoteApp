@@ -1,9 +1,0 @@
-id: dbUser
-pass: dbUser22445
-
-IP for everywhere: 0.0.0.0/0
-Private IP: (103.82.253.7/32)
-
-mongodb+srv://dbUser:<db_password>@noteapp.ger8n.mongodb.net/?retryWrites=true&w=majority&appName=NoteApp
-
-npm install mongodb
